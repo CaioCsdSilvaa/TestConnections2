@@ -1,1 +1,1 @@
-alert("Olá!! Hoje nós vamos dominar o Git e GitHub.");
+alert("Olá!! Hoje nós vamos dominar o Git e GitHub é isso.");
